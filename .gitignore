@@ -1,0 +1,14 @@
+# 数据集（大文件）
+数据集/FashionMNIST/
+数据集.zip
+
+# Jupyter 缓存
+.ipynb_checkpoints/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+.DS_Store
